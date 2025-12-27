@@ -5,6 +5,11 @@
 👉 Ver el análisis completo y ejecutado en Kaggle:  
 [https://www.kaggle.com/code/lucaexequielfarias/loyalty-program-impact-analysis]
 
+⚠️¡Atención! en caso de querer ejecutarlo en entorno local. Tengase en cuenta: 
+1️⃣ Vas a tener que instalar las dependencias locales
+2️⃣ Vas a tener que decargar el dataset de acá: (https://www.kaggle.com/datasets/noeyislearning/sales-simulation)
+3️⃣ Una vez descargado el dataset vas a tener que crear una carpeta llamada data en el mismo nivel que tengas la jupyternotebook y dentro de esa carpeta almacenar el dataset con el nombre: "dataset.csv"
+Debido a estos factores y en favor de la practicidad, recomiendo ir a Kaggle para estos fines. 
 ---
 
 ## Objetivo del proyecto
